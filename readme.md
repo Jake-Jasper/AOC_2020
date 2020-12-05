@@ -24,4 +24,6 @@ The first part was faily simple (for me) with a little bit of regex. However, pa
 
 I didn't learn anything new from this one but I did do something new, which was chain laods of and statements together, previously I think 3 was my max.
 
-## Day 5
+## Day 5  [Part 1](#https://github.com/Jake-Jasper/AOC_2020/blob/main/D5_1.py)
+
+Despite knowing that the problem requires knowledge of binary, and knowing that I know next to nothing about binary, I attempted the problem anyway. Just by uisng the knoweldge I have. Solving the first problem was trivial, I am sure the second one was doable without knowledge of binary, but I did not understand what the problem statement was trying to tell me. Treating this sort of like an exam I had to skip here. I should not be awarded a star for this by my own logic. However, I will go and study binary and see how the problem should be solved.
