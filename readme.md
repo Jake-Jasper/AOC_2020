@@ -43,3 +43,9 @@ The first day where I could not do at least the first part. I did not know about
 [Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D8_1.py)  [Part 2](https://github.com/Jake-Jasper/AOC_2020/blob/main/D8_2.py)
 
 I found the first part easy, and completed it within ~ 5mins, but I could not complete the second part, I think I am off by one somewhere and I have spent hours debugging it to no avail. I have set myself a cutoff so i don't waste too much time. But I am sure it is almost complete. I am 100% sure if I re wrote it entirely I could complete it but I have spent to much time on it. Time to move on.
+
+## Day 9
+
+[Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D9_1.py)  [Part 2](https://github.com/Jake-Jasper/AOC_2020/blob/main/D9_2.py)
+
+Part 1 was fairly easy, assuming you know about combinations! Part 2 was also quite easy with a brute force, the way I did it. Although I knew as I was writing it it would be suboptimal. I learnt the sliding window algorithm from asottille which ran wayyyy faster. So this was a good day for me.
