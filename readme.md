@@ -49,3 +49,16 @@ I found the first part easy, and completed it within ~ 5mins, but I could not co
 [Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D9_1.py)  [Part 2](https://github.com/Jake-Jasper/AOC_2020/blob/main/D9_2.py)
 
 Part 1 was fairly easy, assuming you know about combinations! Part 2 was also quite easy with a brute force, the way I did it. Although I knew as I was writing it it would be suboptimal. I learnt the sliding window algorithm from asottille which ran wayyyy faster. So this was a good day for me.
+
+## Day 10
+[Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D10_1.py)  [Part 2](https://github.com/Jake-Jasper/AOC_2020/blob/main/D10_2.py)
+
+I found understanding the first problem difficult to understand, I just worked backwards from the example given, it did not really understand the text.
+
+and then the problem was simple.
+
+The reverse was true for part 2. Easy to understnad, difficult to solve. And I didn't solve it on my own, I had to look it up. I did learn that there was such thing as a tribonacci sequence though!
+
+But at my current stage of learning I would not have figured out the solution to part 2 without help.
+
+Onwards!
