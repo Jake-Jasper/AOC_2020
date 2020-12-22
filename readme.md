@@ -61,4 +61,20 @@ The reverse was true for part 2. Easy to understnad, difficult to solve. And I d
 
 But at my current stage of learning I would not have figured out the solution to part 2 without help.
 
+## Day 11
+
+
+[Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D11_1.py)  [Part 2](https://github.com/Jake-Jasper/AOC_2020/blob/main/D10_2.py)
+
+So, I did not complete this one, my solution worked with the test-case, but was off by 13 on my problem input. I may return to this as I liked my "solution". I used a convolution method which was the the only method I could think of.
+
+
+
+
 Onwards!
+
+
+## Things to learn for next time
+- Binary 
+- Graph datastructures
+- Improve regex
