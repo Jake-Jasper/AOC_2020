@@ -69,7 +69,10 @@ But at my current stage of learning I would not have figured out the solution to
 So, I did not complete this one, my solution worked with the test-case, but was off by 13 on my problem input. I may return to this as I liked my "solution". I used a convolution method which was the the only method I could think of.
 
 
+# At this point I stopped playing and didn't come back to the problems until January, so from now on, I am taking my time with the oroblems.
 
+## Day 12
+[Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D12_1.py)
 
 Onwards!
 
