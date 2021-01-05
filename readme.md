@@ -74,6 +74,13 @@ So, I did not complete this one, my solution worked with the test-case, but was 
 ## Day 12
 [Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D12_1.py)
 
+## Day 13
+[Part 1](https://github.com/Jake-Jasper/AOC_2020/blob/main/D13_1.py)
+
+Okay, so I this was another case where I found the problem hard to understnad but relatively easy to solve. Whereas, part 2 was easy to understand (after I understood the first part) but I have no idea how to solve especially given how large the numbers will get. I have seen that it is related to modular arithmatic, which I have heard of but no nothing about. Also Chinese remainder theory - ditto.
+
+Part 2 is something I want to come back to and solve. I shall add it to the TODO list.
+
 Onwards!
 
 
@@ -81,3 +88,4 @@ Onwards!
 - Binary 
 - Graph datastructures
 - Improve regex
+- Modular arithmetic (D13_2)
